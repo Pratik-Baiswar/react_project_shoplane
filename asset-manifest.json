@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react_project_shoplane/static/css/main.cdb48bc9.chunk.css",
-    "main.js": "/react_project_shoplane/static/js/main.c02b6630.chunk.js",
-    "main.js.map": "/react_project_shoplane/static/js/main.c02b6630.chunk.js.map",
+    "main.js": "/react_project_shoplane/static/js/main.83e4ca11.chunk.js",
+    "main.js.map": "/react_project_shoplane/static/js/main.83e4ca11.chunk.js.map",
     "runtime-main.js": "/react_project_shoplane/static/js/runtime-main.b9dbd9c9.js",
     "runtime-main.js.map": "/react_project_shoplane/static/js/runtime-main.b9dbd9c9.js.map",
     "static/css/2.ed1298f3.chunk.css": "/react_project_shoplane/static/css/2.ed1298f3.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.ed1298f3.chunk.css",
     "static/js/2.bf9d33b9.chunk.js",
     "static/css/main.cdb48bc9.chunk.css",
-    "static/js/main.c02b6630.chunk.js"
+    "static/js/main.83e4ca11.chunk.js"
   ]
 }
